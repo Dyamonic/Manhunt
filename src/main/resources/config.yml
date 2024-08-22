@@ -1,0 +1,25 @@
+# Configuration file for Manhunt Plugin
+# Plugin requested on Fiverr, made by Macs @ MacsWorks.eu
+# For support: macsworks.eu/discord
+
+lang:
+  no-permission: "&c[&4!&c] You don't have permission!"
+  starting: "&eGame starting in: &c%timer%s&e!"
+  role: "&eYou are a: %role%&e!\n%role_rules%"
+  runner: "&9&lRUNNER"
+  chaser: "&a&lCHASER"
+  runner-rules: "&7Defeat the dragon without being killed!"
+  chaser-rules: "&7Kill all runners!"
+  chasers-released: "&cThe chasers have been released!"
+  tracker: "&eRunner Tracker"
+  track: "&eTrack &c%player%"
+  killed: "&7Runner &c%player% &7was killed!"
+  restarting: "&eServer is restarting!"
+  won: "&e&lTeam %team% &e&lwon!"
+  lobby-set: "&eLobby location set!"
+  game-started: "&eGame force-started!"
+
+min-players: 2
+max-players: 16
+
+game-world: "world"

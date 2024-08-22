@@ -1,0 +1,14 @@
+name: Manhunt
+version: '${project.version}'
+main: eu.macsworks.fiverr.manhunt.Manhunt
+api-version: 1.20
+depend: [MacsLibs]
+authors: [MacsWorks]
+description: Plugin to add a manhunt gamemode to the server
+website: macsworks.eu
+
+commands:
+  setmanhuntlobby:
+    description: Set manhunt lobby
+  forcestart:
+    description: Force Start
